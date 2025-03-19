@@ -1,0 +1,125 @@
+{
+  "home": {
+    "title": "Siwa Temple",
+    "subtitle": "The temple of the moon",
+    "about": {
+      "description": "The Siwa Temple is a temple dedicated to the moon god, Khonsu. It is located in the Siwa Oasis in Egypt. The temple was built during the 26th Dynasty and is one of the best-preserved temples in Egypt. The temple is known for its beautiful carvings and hieroglyphics, which tell the story of the moon god and his importance in ancient Egyptian religion.",
+      "button": "Learn History"
+    },
+    "events": {
+      "title": "Events",
+      "subtitle": "Upcoming events at the Siwa Temple",
+      "button": "View All Events"
+    },
+    "map": {
+      "title": "Siwa Temple Map",
+      "button": "Open Map"
+    },
+    "partOfTemple": {
+      "title": "Part of the Temple",
+      "subtitle": "Explore the different parts of the Siwa Temple",
+      "button": "View All Parts"
+    },
+    "news": {
+      "title": "News",
+      "subtitle": "Latest news about the Siwa Temple",
+      "button": "View All News"
+    }
+  },
+  "history": {
+    "appBar": {
+      "title": "History",
+      "back": "Back"
+    },
+    "title": "History of the Siwa Temple",
+    "description": [
+      "Pura Siwa, located in Tabanan, Bali, is a temple dedicated to the Hindu deity Shiva (locally known as Siwa). Bali is predominantly Hindu, and its temple architecture and practices are deeply intertwined with the island's spiritual and cultural heritage.",
+      "While historical records specific to Pura Siwa in Tabanan might not be extensively documented, the worship of Shiva in Bali has roots in ancient Hindu-Javanese traditions that spread to Bali during the Majapahit Empire's expansion in the 14th century. Shiva is one of the principal deities in Balinese Hinduism, often revered as part of the Trimurti (the trinity of Brahma, Vishnu, and Shiva).",
+      "The presence of Pura Siwa in Tabanan reflects Bali’s broader Hindu heritage, where many temples are dedicated to specific deities, and the worship of Siwa/Siwa Pasupati (Shiva as the supreme god) is common. Temples in Bali, including Pura Siwa, typically serve as sacred spaces for offerings, religious ceremonies, and pilgrimages by local worshippers.",
+      "If you're interested in visiting, Pura Siwa would be a beautiful example of Balinese temple architecture and culture, blending traditional artistry with deep religious significance."
+    ]
+  },
+  "tutorial": {
+    "appBar": {
+      "title": "Flow and Offerings",
+      "back": "Back"
+    },
+    "title": "How to pray in Siwa Temple",
+    "description": [
+      "Welcome to the Siwa Temple app! This app is designed to help you explore the Siwa Temple and learn more about its history and significance. Here's a quick guide on how to use the app:"
+    ],
+    "offerings": {
+      "title": "Making Offerings",
+      "description": "offerings that can be prepared and brought when visiting the Shiva temple based on the beliefs of Hindus in Bali. You can bring offerings according to your respective beliefs or not bring anything. This is not required.",
+      "closeDescription": "If you're interested in making offerings at the temple, you can order them through the app. Here are some common offerings you can choose from:",
+      "button": "Order Offerings",
+      "items": [
+        {
+          "image": "assets/images/canang_sari.jpg",
+          "title": "Canang Sari",
+          "qty": "1 pack",
+          "description": "Canang Sari is one of the most common offerings in Bali. It is a small woven basket made from coconut leaves and filled with flowers, rice, and incense. The offering is placed at the temple entrance or on shrines as a symbol of gratitude and devotion."
+        },
+        {
+          "image": "assets/images/banten.jpg",
+          "title": "Banten",
+          "qty": "1 set",
+          "description": "Banten is a larger offering that consists of fruits, cakes, and other food items. It is usually presented during special ceremonies or festivals to honor the deities and seek their blessings."
+        },
+        {
+          "image": "assets/images/sesajen.jpg",
+          "title": "Sesajen",
+          "qty": "1 set",
+          "description": "Sesajen are offerings made from various natural materials like fruits, flowers, and leaves. They are placed on shrines or altars as a sign of respect and reverence to the deities."
+        }
+      ]
+    },
+    "flow": {
+      "title": "Prayer Flow",
+      "description": "The prayer flow at the Siwa Temple follows a specific sequence of rituals and offerings. Here's a general outline of the prayer flow:",
+      "items": [
+        {
+          "no": 1,
+          "title": "Enter the Temple",
+          "description": "Start by entering the temple premises and observing the surroundings. Take a moment to appreciate the architecture and ambiance of the temple.",
+          "offerings": [
+            "Canang Sari",
+            "Banten"
+          ],
+          "image": "assets/images/enter_temple.jpg"
+        },
+        {
+          "no": 2,
+          "title": "Prepare Offerings",
+          "description": "Prepare your offerings and place them at the designated shrines or altars. Follow the instructions given by the temple priests or guides.",
+          "offerings": [
+            "Canang Sari",
+            "Sesajen"
+          ],
+          "image": "assets/images/prepare_offerings.jpg"
+        },
+        {
+          "no": 3,
+          "title": "Pray and Meditate",
+          "description": "Engage in prayer and meditation to connect with the divine and seek blessings for yourself and your loved ones. Offer your prayers with sincerity and devotion.",
+          "offerings": [
+            "Banten",
+            "Sesajen"
+          ],
+          "image": "assets/images/pray_meditate.jpg"
+        },
+        {
+          "no": 4,
+          "title": "Receive Blessings",
+          "description": "Receive blessings from the temple priests or spiritual guides. Express your gratitude and respect for the divine blessings bestowed upon you.",
+          "offerings": [
+            "Canang Sari",
+            "Sesajen"
+          ],
+          "image": "assets/images/receive_blessings.jpg"
+        }
+        
+      ]
+    }
+  }
+}
